@@ -1,0 +1,27 @@
+body{
+	background-color: orange;
+}
+.inputText{
+	width: 100%;
+	text-align: center;
+	font-size: 2em;
+	border-radius: 10px;
+	border: 1px solid #ddd;
+}
+ .greens{
+	background-color: #333;
+	padding:.8em;
+	color: #eee;
+	font-family: verdana;
+	font-size: 4em;
+	border-radius: 10px;
+	display:  block;
+	transition: 1s;
+	font-style: italic;
+
+}
+ .view{
+ 	text-align: center;
+ }
+
+
